@@ -1,0 +1,10 @@
+## Interface: 110105
+## Title: MythicIO - Resources
+## Author: Rhany-Ravencrest
+## IconTexture: Interface\AddOns\MythicIOGrabber\res\infoIcons\logo_noText_128.png
+## Notes: All updated background dungeon/raid images for MythicIOGrabber
+## Version: 1.0.0
+
+## X-Curse-Project-ID: 916354
+## X-Wago-ID: EGPXd3G1
+## X-Website: https://github.com/NintendoLink07/MythicIOGrabber
