@@ -3,7 +3,7 @@
 ## Author: Rhany-Ravencrest
 ## IconTexture: Interface\AddOns\MythicIO - Resources\logo.png
 ## Notes: Includes custom, upscaled backgrounds for various maps and activities in WoW that have been split off the main addon due to filesize concerns.
-## Version: 1.0.1
+## Version: 1.0.2
 
 ## X-Curse-Project-ID: 1254983
 ## X-Wago-ID: b6mbgXKP
