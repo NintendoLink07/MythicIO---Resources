@@ -8,3 +8,5 @@
 ## X-Curse-Project-ID: 1254983
 ## X-Wago-ID: b6mbgXKP
 ## X-Website: https://github.com/NintendoLink07/MythicIO---Resources
+
+MythicIO - Resources.lua
